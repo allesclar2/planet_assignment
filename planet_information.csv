@@ -1,0 +1,9 @@
+Planet,Mass,Aphelion,Perihelion,Semi-major axis,Moons
+Mercury,0.055,0.466697,0.307499,0.387098,none
+Venus,0.815,0.728213,0.71844,0.723332,none
+Earth,1,152097597,147098450,149598023,Moon
+Mars,0.107,1.66621,1.3814,1.52368055,Phobos and Deimos
+Jupiter,317.8,5.457,4.9506,5.2038,Ganymede and 96 others
+Saturn,95.159,10.1238,9.0412,9.5826,Titan and 273 others
+Uranus,14.536,20.0965,18.2861,19.19126,Titania and 28 others
+Neptune,17.147,30.33,29.81,30.07,Triton and 15 others
